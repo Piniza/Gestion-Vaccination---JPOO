@@ -12,6 +12,7 @@ It aims as an introductory tool into learning all the java basics and the data a
 - Adding doctors with their Catégories
 - Check Vaccin availability  
 - Multi User authentification
+- Print Vaccinal Pass
 
 
 ## Authors
