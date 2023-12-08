@@ -9,8 +9,9 @@ It aims as an introductory tool into learning all the java basics and the data a
 ## Features
 
 - Adding Vaccins types 
-- Adding doctors
-- To be added in the future (نعتذر عن الاعطاب التقنية)
+- Adding doctors with their Catégories
+- Check Vaccin availability  
+- Multi User authentification
 
 
 ## Authors
